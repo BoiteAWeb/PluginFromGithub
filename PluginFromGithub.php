@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: PluginFromGithub
+Plugin Name: Plugin From Github
 Author: Julio Potier
 */
 
