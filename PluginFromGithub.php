@@ -1,3 +1,4 @@
+<?php
 /*
 Plugin Name: PluginFromGithub
 Author: Julio Potier
